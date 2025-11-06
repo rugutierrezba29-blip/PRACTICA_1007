@@ -17,3 +17,4 @@ git push -u origin master
 git push -u origin main
 git clone //para clonar tu version en git hub.
 git clean
+git rebase
