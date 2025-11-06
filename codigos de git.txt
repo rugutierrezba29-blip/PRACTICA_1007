@@ -1,4 +1,5 @@
 codigos de git
+git help
 git--version // para ver que version de git hay. 
 cmdkey /list // para ver que cuentas hay de git.
 cmdkey /delete:  para eliminar la cuenta de git.
@@ -15,3 +16,4 @@ git git commit -m"primera version"
 git push -u origin master
 git push -u origin main
 git clone //para clonar tu version en git hub.
+git clean
