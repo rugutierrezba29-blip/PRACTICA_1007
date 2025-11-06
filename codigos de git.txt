@@ -1,0 +1,17 @@
+codigos de git
+git--version // para ver que version de git hay. 
+cmdkey /list // para ver que cuentas hay de git.
+cmdkey /delete:  para eliminar la cuenta de git.
+git init //inicializa el repositorio.
+git config --global user.name rugutierrezba29-blip // para iniciar sesion 
+git config user.name //para verificar si estas verificado 
+git config --global user.email // rugutierrezba29@inemkennedy.edu.co
+git config user.email
+git init
+git add .
+git status
+git remote add origin https://github.com/rugutierrezba29-blip/PRACTICA_1007.git
+git git commit -m"primera version"
+git push -u origin master
+git push -u origin main
+git clone //para clonar tu version en git hub.
